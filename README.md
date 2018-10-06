@@ -1,2 +1,2 @@
 # NodeJS-Master-Class
-Contains projects built using just Node.js (no frameworks, no dependencies)
+Contains projects built using plain Node.js (no frameworks, no dependencies)
